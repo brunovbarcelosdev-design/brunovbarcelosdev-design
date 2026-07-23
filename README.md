@@ -1,6 +1,6 @@
-## Hi there 👋
+⁸## Hi there 👋
 
-Prazer! Mechamo Bruno sou um desevolvedor em formação Full Stack.
+Prazer! Me chamo Bruno sou um desevolvedor em formação Full Stack.
 Atualmente no aprendizagem do front-and, criando alguns projeto com:<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/a95eaac9-4a70-4cb4-a98a-9c2288d8c011" /><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/d9cdc17e-fe7b-4730-834f-77b0579c4867" />
 
 <br>
